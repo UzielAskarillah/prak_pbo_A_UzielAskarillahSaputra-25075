@@ -9,7 +9,7 @@
 
 ### Sebelum
 
-[Lihat source code RekeningBank.java versi awal](materi&codingan-sebelumDibenarin\pert03\java\RekeningBank.java).
+[Lihat source code RekeningBank.java versi awal](materi&codingan-sebelumDibenarin/pert03/java/RekeningBank.java).
 
 **Pekerjaan yang harus diselesaikan:** melengkapi deklarasi konstanta, pengelolaan jumlah rekening, delegasi constructor, validasi saldo dan transaksi, biaya administrasi, serta mekanisme perhitungan bunga. Pada kode awal, masih terdapat beberapa bagian TODO dan nilai penghitung rekening belum sesuai dengan yang diharapkan.
 
@@ -23,13 +23,13 @@ Pada versi ini, constructor dan berbagai operasi rekening telah dilengkapi denga
 
 ### Sebelum
 
-[Lihat source code RekeningBank.php versi awal](materi&codingan-sebelumDibenarin\pert03\php\RekeningBank.php).
+[Lihat source code RekeningBank.php versi awal](materi&codingan-sebelumDibenarin/pert03/php/RekeningBank.php).
 
 **Pekerjaan yang harus diselesaikan:** mengimplementasikan pengelolaan rekening menggunakan PHP, termasuk pemeriksaan data, pencatatan jumlah rekening secara statis, serta proses penyetoran dan penarikan uang.
 
 ### Setelah
 
-[Lihat source code RekeningBank.php setelah perbaikan](pbo-A-UzielAskarillahSaputra-25075\pertemuan03\src\php\RekeningBank.php).
+[Lihat source code RekeningBank.php setelah perbaikan](pbo-A-UzielAskarillahSaputra-25075/pertemuan03/src/php/RekeningBank.php).
 
 Implementasi PHP telah dilengkapi dengan constructor yang memungkinkan saldo awal bersifat opsional, named constructor, dan validasi untuk setiap transaksi. Selain itu, konstanta serta method statis digunakan untuk mendukung pengelolaan data rekening.
 
@@ -37,19 +37,19 @@ Implementasi PHP telah dilengkapi dengan constructor yang memungkinkan saldo awa
 
 ### Java — Sebelum Perbaikan
 
-![Hasil pengujian Java sebelum perbaikan](ssan-sebelum\pert03\javasblm.jpeg)
+![Hasil pengujian Java sebelum perbaikan](ssan-sebelum/pert03/javasblm.jpeg)
 
 ### Java — Setelah Perbaikan
 
-![Hasil pengujian Java setelah perbaikan](ssan-setelah\pert03\javastlh.jpeg)
+![Hasil pengujian Java setelah perbaikan](ssan-setelah/pert03/javastlh.jpeg)
 
 ### PHP — Sebelum Perbaikan
 
-![Hasil pengujian PHP sebelum perbaikan](ssan-sebelum\pert03\phpsblm.jpeg)
+![Hasil pengujian PHP sebelum perbaikan](ssan-sebelum/pert03/phpsblm.jpeg)
 
 ### PHP — Setelah Perbaikan
 
-![Hasil pengujian PHP setelah perbaikan](ssan-setelah\pert03\mainphp2.jpeg)
+![Hasil pengujian PHP setelah perbaikan](ssan-setelah/pert03/mainphp2.jpeg)
 
 ## Kesimpulan
 
