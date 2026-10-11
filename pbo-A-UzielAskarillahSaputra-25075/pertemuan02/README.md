@@ -45,13 +45,13 @@ Setelah diselesaikan, kelas `Mahasiswa.java` sudah menerapkan validasi dan perhi
 
 ### Sebelum
 
-[Lihat kode Main.java sebelum](../../materi&codingan-sebelumDibenarin\pert02\java\Main.java).
+[Lihat kode Main.java sebelum](../../materi&codingan-sebelumDibenarin/pert02/java/Main.java).
 
 `Main.java` berperan sebagai program pengujian. Program membuat tiga objek mahasiswa dan menampilkan rekap nilai. Selanjutnya, program mencoba membuat objek dengan nilai 150 serta NIM kosong. Kedua masukan tersebut semestinya ditolak oleh proses validasi.
 
 ### Setelah
 
-[Lihat kode Main.java setelah](pbo-A-UzielAskarillahSaputra-25075\pertemuan02\src\java\Main.java).
+[Lihat kode Main.java setelah](pbo-A-UzielAskarillahSaputra-25075/pertemuan02/src/java/Main.java).
 
 Kode `Main.java` dibiarkan seperti semula sesuai instruksi. Perubahan hasil terjadi karena implementasi `Mahasiswa.java` sudah dilengkapi. Dua blok `try-catch` menangkap `IllegalArgumentException` dan menampilkan pesan bahwa masukan tersebut ditolak.
 
@@ -61,7 +61,7 @@ Kode `Main.java` dibiarkan seperti semula sesuai instruksi. Perubahan hasil terj
 
 ### Sebelum
 
-[Lihat kode Mahasiswa.php sebelum](materi&codingan-sebelumDibenarin\pert02\php\Mahasiswa.php)
+[Lihat kode Mahasiswa.php sebelum](materi&codingan-sebelumDibenarin/pert02/php/Mahasiswa.php)
 
 File PHP ini merupakan implementasi kelas mahasiswa dengan tujuan yang sama seperti versi Java, tetapi masih memiliki bagian TODO. Beberapa hal yang digunakan dalam versi PHP antara lain:
 
@@ -71,7 +71,7 @@ File PHP ini merupakan implementasi kelas mahasiswa dengan tujuan yang sama sepe
 
 ### Setelah
 
-[Lihat kode Mahasiswa.php setelah](pbo-A-UzielAskarillahSaputra-25075\pertemuan 2\src\php\Mahasiswa.php)
+[Lihat kode Mahasiswa.php setelah](pbo-A-UzielAskarillahSaputra-25075/pertemuan02/src/php/Mahasiswa.php)
 
 Pada versi yang sudah dilengkapi, kelas PHP menerapkan validasi dan perhitungan nilai sebagai berikut.
 
@@ -88,7 +88,7 @@ Pada versi yang sudah dilengkapi, kelas PHP menerapkan validasi dan perhitungan 
 
 ### Sebelum
 
-[Lihat kode Main.php sebelum](materi&codingan-sebelumDibenarin\pert02\php\main.php)
+[Lihat kode Main.php sebelum](materi&codingan-sebelumDibenarin/pert02/php/main.php)
 
 `main.php` merupakan program uji untuk implementasi PHP. File ini memuat `Mahasiswa.php`, menampilkan rekap nilai tiga mahasiswa, kemudian mencoba memasukkan nilai 150 dan NIM kosong. Kedua kasus tersebut seharusnya menghasilkan penolakan.
 
@@ -110,7 +110,7 @@ Sebelum TODO diselesaikan, semua nilai akhir masih menunjukkan `0.00`, huruf mut
 
 ### Setelah diperbaiki (Java)
 
-![Tampilan program Java setelah perbaikan](ssan-setelah\pert02\javastlh(1).jpeg)
+![Tampilan program Java setelah perbaikan](ssan-setelah/pert02/javastlh(1).jpeg)
 
 ### Setelah diperbaiki (PHP)
 
