@@ -5,7 +5,7 @@
 Folder utama berisi dua bagian besar, yaitu kumpulan materi dan kode awal sebelum diperbaiki, serta repository Git yang berisi versi pengerjaan setelah dirapikan.
 
 ```text
-pbo-a-MuhamadRashaZein-25042/
+pbo-a-UzielAskarillahSaputra-25075/
 ├── Materi-Pembelajaran&Codingan-sebelumdibenerin/      ← VERSI AWAL
 │   └── codingansebelum/
 │       ├── pertemuan02/   Mahasiswa.java, Main.java, Mahasiswa.php, main.php, Modul-Praktikum-02-*.docx
