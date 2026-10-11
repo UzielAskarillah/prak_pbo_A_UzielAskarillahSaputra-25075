@@ -94,7 +94,7 @@ Pada versi yang sudah dilengkapi, kelas PHP menerapkan validasi dan perhitungan 
 
 ### Setelah
 
-[Lihat kode Main.php setelah](pbo-A-UzielAskarillahSaputra-25075\pertemuan 2\src\php\main.php)
+[Lihat kode Main.php setelah](pbo-A-UzielAskarillahSaputra-25075/pertemuan02/src/php/main.php)
 
 Kode `main.php` tetap sama seperti sebelumnya. Keluaran program menjadi sesuai harapan karena `Mahasiswa.php` telah dilengkapi. Blok `try-catch` menangani `InvalidArgumentException` dan menampilkan pesan penolakan untuk masukan yang tidak valid.
 
